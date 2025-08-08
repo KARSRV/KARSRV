@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 Machine Learning enthusiast exploring the world of cloud computing.<br>🧠 I build ML models and love taking on new challenges.<br>🌱 Currently learning and eager to create impactful projects.
 
 
